@@ -121,7 +121,7 @@ p {
 
 /* model */
 .modal-content {
-    background: #4ec06e;
+    background: #27500f;
 }
 
 .modal-title {
@@ -159,7 +159,7 @@ p {
 }
 
 .dropboxx2 {
-    background: #4ec06e;
+    background: #27500f;
 }
 
 .close {
@@ -183,7 +183,7 @@ p {
     position: fixed;
     width: 100%;
     height: 100%;
-    background: #4ec06e;
+    background: #27500f;
     z-index: 9999999;
     top: 0;
     left: 0;
@@ -198,7 +198,7 @@ p {
     margin-top: -200px;
     margin-left: -200px;
     border-radius: 2px;
-    background: #4ec06e;
+    background: #27500f;
     color: #fff;
 }
 
@@ -373,7 +373,7 @@ p {
 }
 
 .backtotop i {
-    color: #4ec06e;
+    color: #27500f;
     text-align: center;
     font-size: 25px;
     line-height: 65px;
@@ -479,11 +479,11 @@ p {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .navbar-light .navbar-brand {
@@ -497,15 +497,15 @@ p {
 }
 
 .navbar-light .navbar-brand b {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .navbar-light .navbar-brand:focus {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .navbar-light .navbar-brand:hover {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .nav-bg {
@@ -528,11 +528,11 @@ p {
 }
 
 .nav-bg .bor {
-    background: #4ec06e;
+    background: #27500f;
 }
 
 .nav-bg .bor:after {
-    background: #4ec06e;
+    background: #27500f;
 }
 
 .nav-bg .bor:hover {
@@ -615,7 +615,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #4ec06e;
+    background: #27500f;
     color: black;
     font-family: pb;
     font-size: 18px;
@@ -633,7 +633,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -653,7 +653,7 @@ p {
     right: 0;
     width: 170px;
     height: 140px;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -668,7 +668,7 @@ p {
     right: 0;
     width: 170px;
     height: 140px;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -723,7 +723,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #4ec06e;
+    background: #27500f;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -753,7 +753,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #4ec06e;
+    background: #27500f;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -780,7 +780,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
 }
 
@@ -804,7 +804,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
 }
 
@@ -832,7 +832,7 @@ p {
 }
 
 .header-text h3 span {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .over-i {
@@ -843,7 +843,7 @@ p {
     line-height: 60px;
     border-radius: 50%;
     text-align: center;
-    background: #4ec06e;
+    background: #27500f;
 }
 
 .over-item h3 {
@@ -865,7 +865,7 @@ p {
 }
 
 .over-btn a {
-    color: #4ec06e;
+    color: #27500f;
     font-size: 17px;
     font-family: pb;
 }
@@ -972,7 +972,7 @@ over-btn a i {
 .separet-span {
     font-family: pr;
     font-size: 19px;
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .about-txt {
@@ -1000,7 +1000,7 @@ over-btn a i {
 
 .about-txt a {
     padding: 14px 20px;
-    background: #4ec06e;
+    background: #27500f;
     color: #fff;
     font-size: 18px;
     font-family: pb;
@@ -1018,7 +1018,7 @@ over-btn a i {
     content: '';
     top: 10px;
     left: 0;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1039,7 +1039,7 @@ over-btn a i {
 }
 
 .progress-bar {
-    background: #4ec06e;
+    background: #27500f;
 }
 
 .progress {
@@ -1056,7 +1056,7 @@ over-btn a i {
 
 .counter-1 h5 {
     font-size: 18px;
-    color: #4ec06e;
+    color: #27500f;
     margin-top: -56px;
     margin-left: 28px;
     padding-bottom: 38px;
@@ -1121,7 +1121,7 @@ over-btn a i {
 }
 
 .product-txt span {
-    color: #4ec06e;
+    color: #27500f;
     font-family: pr;
     font-size: 18px;
 }
@@ -1147,7 +1147,7 @@ over-btn a i {
 
 .product-txt a {
     padding: 14px 20px;
-    background: #4ec06e;
+    background: #27500f;
     color: #fff;
     font-size: 18px;
     font-family: pb;
@@ -1166,7 +1166,7 @@ over-btn a i {
 }
 
 .pro-img img {
-    border: 5px solid #4ec06e;
+    border: 5px solid #27500f;
     border-radius: 50%;
     display: inline-block;
 }
@@ -1179,7 +1179,7 @@ over-btn a i {
 }
 
 .product-slider a {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .stars {
@@ -1224,7 +1224,7 @@ over-btn a i {
     left: -25px;
     width: 170px;
     height: 140px;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -1239,7 +1239,7 @@ over-btn a i {
     left: -25px;
     width: 170px;
     height: 140px;
-    background: #4ec06e;
+    background: #27500f;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -1253,7 +1253,7 @@ over-btn a i {
 
 .team-item img {
     border-radius: 30% 84% 28% 76% / 87% 23% 69% 29%;
-    border: 6px solid #4ec06e;
+    border: 6px solid #27500f;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     -webkit-transition: all linear .3s;
@@ -1283,13 +1283,13 @@ over-btn a i {
 .team-item a {
     font-family: pb;
     font-size: 16px;
-    color: #4ec06e;
+    color: #27500f;
 
 }
 
 .team-btn a {
     padding: 14px 20px;
-    background: #4ec06e;
+    background: #27500f;
     color: #fff;
     font-size: 18px;
     font-family: pb;
@@ -1328,7 +1328,7 @@ over-btn a i {
 }
 
 .gold-bg {
-    border: 2px solid #4ec06e;
+    border: 2px solid #27500f;
 }
 
 .price-table h4 {
@@ -1341,7 +1341,7 @@ over-btn a i {
 
 .price-table sub {
     font-family: pr;
-    color: #4ec06e;
+    color: #27500f;
     font-size: 16px;
 }
 
@@ -1353,7 +1353,7 @@ over-btn a i {
 }
 
 .price-table p i {
-    color: #4ec06e;
+    color: #27500f;
     font-size: 18px;
     padding-right: 4px;
 }
@@ -1372,7 +1372,7 @@ over-btn a i {
 }
 
 .price-table a:hover {
-    background: #4ec06e;
+    background: #27500f;
     color: white;
 }
 
@@ -1381,7 +1381,7 @@ over-btn a i {
 }
 
 .gold-bg2 a {
-    background: #4ec06e;
+    background: #27500f;
     color: white;
 }
 
@@ -1430,7 +1430,7 @@ over-btn a i {
 }
 
 .comment p i {
-    color: #4ec06e;
+    color: #27500f;
     font-size: 22px;
     padding: 0 3px;
 }
@@ -1441,8 +1441,8 @@ over-btn a i {
 }
 
 .user-img img {
-    background: #4ec06e;
-    border: 2px solid #4ec06e;
+    background: #27500f;
+    border: 2px solid #27500f;
     border-radius: 50%;
 }
 
@@ -1480,11 +1480,11 @@ over-btn a i {
 }
 
 .faq-icon i {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .contact-icon i {
-    color: #4ec06e;
+    color: #27500f;
 
 }
 
@@ -1533,7 +1533,7 @@ textarea:-ms-input-placeholder {
     padding: 15px 40px;
     color: white;
     font-family: pb;
-    background: #4ec06e;
+    background: #27500f;
     border-radius: 50px;
     font-size: 18px;
     border: none;
@@ -1567,14 +1567,14 @@ textarea:-ms-input-placeholder {
 }
 
 .btn-link {
-    color: #4ec06e;
+    color: #27500f;
     font-family: pb;
 }
 
 .btn-link:hover,
 .btn-link:focus {
     text-decoration: none;
-    color: #4ec06e;
+    color: #27500f;
 }
 
 input::placeholder,
@@ -1632,7 +1632,7 @@ textarea::placeholder {
 }
 
 .blog-item-txt a {
-    color: #4ec06e;
+    color: #27500f;
     font-size: 17px;
     font-family: pb;
     padding-top: 5px;
@@ -1650,9 +1650,9 @@ textarea::placeholder {
 
 .search-btn {
     width: 60px;
-    background: #4ec06e;
+    background: #27500f;
     color: white;
-    border: 1px solid #4ec06e;
+    border: 1px solid #27500f;
 }
 
 /*===========================
@@ -1665,7 +1665,7 @@ textarea::placeholder {
 
 .sub-main {
     padding: 30px 0;
-    background: #4ec06e;
+    background: #27500f;
     border-radius: 50px;
 }
 
@@ -1681,7 +1681,7 @@ textarea::placeholder {
     padding: 15px 25px;
     border-radius: 50px;
     font-family: pb;
-    color: #4ec06e;
+    color: #27500f;
     font-size: 18px;
 }
 
@@ -1716,7 +1716,7 @@ textarea::placeholder {
     line-height: 45px;
     text-align: center;
     border-radius: 50%;
-    color: #4ec06e;
+    color: #27500f;
     background: white;
     font-size: 20px;
     margin-right: 13px;
@@ -1726,9 +1726,9 @@ textarea::placeholder {
 }
 
 .footer-social i:hover {
-    background: #4ec06e;
+    background: #27500f;
     color: #fff;
-    border: 1px solid #4ec06e;
+    border: 1px solid #27500f;
 }
 
 .links h3 {
@@ -1752,7 +1752,7 @@ textarea::placeholder {
 }
 
 .links ul li a:hover {
-    color: #4ec06e;
+    color: #27500f;
     padding-left: 10px;
 }
 
@@ -1769,12 +1769,12 @@ textarea::placeholder {
 
 .f-logo {
     font-size: 27px;
-    color: #4ec06e;
+    color: #27500f;
     font-family: pb;
 }
 
 .f-logo:hover {
-    color: #4ec06e;
+    color: #27500f;
 }
 
 .insta-item {
@@ -1843,6 +1843,6 @@ textarea::placeholder {
 }
 
 .fop-btm a {
-    color: #4ec06e;
+    color: #27500f;
     font-family: pb;
 }
